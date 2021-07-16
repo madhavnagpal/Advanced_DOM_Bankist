@@ -1,0 +1,3 @@
+git remote set-url origin https://madhavnagpal@github.com/madhavnagpal/Advanced_DOM_Bankist.git
+
+git push
